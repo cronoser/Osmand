@@ -585,7 +585,7 @@ public class MapInfoLayer extends OsmandMapLayer {
 						mapInfoControls.changeVisibility(mi);
 					}
 					recreateControls();
-				} else if(o.toString().equals(map.getString(R.string.map_widget_reset))) {
+				} else if(which == 0) {
 					mapInfoControls.resetToDefault();
 					recreateControls();
 				}
