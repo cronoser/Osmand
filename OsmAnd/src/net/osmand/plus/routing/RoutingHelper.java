@@ -227,14 +227,12 @@ public class RoutingHelper {
 					if (dist < projectDist) {
 						Location nextLocation = routeNodes.get(currentRoute);
 						LatLon project = getProject(currentLocation, routeNodes.get(currentRoute - 1), routeNodes.get(currentRoute));
-						
+
 						locationProjection.setLatitude(project.getLatitude());
 						locationProjection.setLongitude(project.getLongitude());
 						// we need to update bearing too
-						if (locationProjection.hasBearing()) {
-							float bearingTo = locationProjection.bearingTo(nextLocation);
-							locationProjection.setBearing(bearingTo);
-						}
+						float bearingTo = locationProjection.bearingTo(nextLocation);
+						locationProjection.setBearing(bearingTo);
 					}
 				}
 			}
