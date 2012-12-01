@@ -1,4 +1,3 @@
-
 aerodrome,Aeropuerto
 arts_centre,Centro de arte
 atm,Cajero automático
@@ -28,7 +27,7 @@ doctors,Consultorio médico
 doctors,Centro médico
 dormitory,Residencia de estudiantes
 dormitory,Colegio Mayor
-drinking_water,Agua potable
+drinking_water,Fuente agua potable
 driving_school,Autoescuela
 embassy,Embajada
 emergency_phone,Teléfono de emergencia
@@ -36,7 +35,7 @@ fast_food,Comida rápida
 ferry_terminal,Terminal de ferry
 fire_hydrant,Hidrante
 fire_station,Parque de bomberos
-fountain,Fuente
+fountain,Fuente ornamental
 fuel,Gasolinera
 grave_yard,Cementerio
 gym,Gimnasio
@@ -57,6 +56,7 @@ nursing_home,Residencia de la tercera edad
 office,Oficina
 park,Parque
 parking,Aparcamiento
+parking_entrance,Entrada aparcamiento
 pharmacy,Farmacia
 place_of_worship,Templo
 police,Policía
@@ -91,6 +91,7 @@ vending_machine,Máquina expendedora
 veterinary,Clínica veterinaria
 village_hall,Sala del pueblo
 waste_basket,Papelera
+waste_disposal,Contenedor de basura
 wifi,Acceso a Internet inalámbrico
 youth_centre,Centro juvenil
 administrative,Frontera administrativa
@@ -131,7 +132,6 @@ bus_guideway,Canal guiado de autobuses
 bus_stop,Parada de autobuses
 byway,Camino
 construction,Vía en construcción
-cycleway,Ruta para bicicletas
 cycleway,Carril bici
 distance_marker,Hito kilométrico
 emergency_access_point,Acceso de emergencia
@@ -173,10 +173,11 @@ church,Iglesia
 house,Casa
 icon,Icono
 manor,Casa señorial
-memorial,Memorial
+memorial,Monumento conmemorativo
 mine,Mina
 monument,Monumento
 museum,Museo
+retaining_wall,Muro de contención
 ruins,Ruinas
 tower,Torre
 wayside_cross,Cruz de término
@@ -345,11 +346,13 @@ drugstore,Parafarmacia
 dry_cleaning,Tintorería
 electronics,Tienda de electrónica
 estate_agent,Inmobiliaria
+fabric,Tejidos
 farm,Tienda de productos agrícolas
 fashion,Tienda de moda
 fish,Tienda de artículos de pesca
 florist,Floristería
 food,Tienda de alimentación
+frame,Enmarcaciones
 funeral_directors,Funeraria
 furniture,Tienda de muebles
 gallery,Galería
@@ -360,28 +363,36 @@ greengrocer,Frutería
 grocery,Tienda de alimentación
 hairdresser,Peluquería
 hardware,Ferretería
+herbalist,Herbalistería
 hifi,Hi-Fi
+hunting,Armería
 insurance,Aseguradora
 jewelry,Joyería
 kiosk,Kiosko
 laundry,Lavandería
+lawyer,Bufete abogados
 mall,Centro comercial
 market,Mercado
 mobile_phone,Tienda de telefonía
 motorcycle,Tienda de motocicletas
 music,Tienda de música
 newsagent,Kiosko de prensa
+ngo,ONG
 optician,Óptica
 organic,Tienda de alimentos orgánicos
 outdoor,Tienda de deportes de aventura
+paint,Pinturas
 pet,Tienda de mascotas
 photo,Tienda fotográfica
 salon,Salón de belleza
+second_hand,Segunda mano
 shoes,Zapatería
 shopping_centre,Centro comercial
 sports,Tienda de artículos deportivos
 stationery,Papelería
 supermarket,Supermercado
+tailor,Sastre
+tobacco,Estanco
 toys,Juguetería
 travel_agency,Agencia de viajes
 video,Videotienda
